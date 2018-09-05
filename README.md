@@ -1,5 +1,5 @@
 # Total-Price
-Total Price Homework 
+Homework 1 
 
 a) DJ Levy
 
